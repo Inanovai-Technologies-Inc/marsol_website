@@ -247,3 +247,18 @@ app_license = "mit"
 # List of apps whose translatable strings should be excluded from this app's translations.
 # ignore_translatable_strings_from = []
 
+fixtures = [
+    {
+        "dt": "Web Page",
+        "filters": [
+            ["route", "in", ["marsol-home", "products", "about", "contact"]]
+        ],
+    },
+    {
+        "dt": "Website Theme",
+        "filters": [
+            ["name", "=", "Marsol Theme"]
+        ],
+    },
+    "Website Settings",
+]
