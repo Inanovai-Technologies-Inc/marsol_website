@@ -246,7 +246,6 @@ app_license = "mit"
 # ------------
 # List of apps whose translatable strings should be excluded from this app's translations.
 # ignore_translatable_strings_from = []
-
 fixtures = [
     {
         "dt": "Builder Page",
@@ -260,6 +259,60 @@ fixtures = [
                 "pages/diffsystem",
                 "pages/career",
                 "pages/enviornment"
+            ]]
+        ],
+    },
+    {
+        "dt": "Builder Page Client Script",
+        "filters": [
+            ["parent", "in", [
+                "page-8c03e013",
+                "page-f921c815",
+                "page-25092291",
+                "page-8406f02c",
+                "page-f04fe0d1",
+                "page-508f0e6f",
+                "page-067860cf",
+                "page-b74e8aa3"
+            ]]
+        ],
+    },
+    {
+        "dt": "Builder Client Script",
+        "filters": [
+            ["name", "in", [
+                "builder_theme_toggle_css-8fc84",
+                "builder_theme_toggle-32dd7",
+                "CSS-c7950",
+                "CSS-6a8b5",
+                "builder_theme_toggle-81c92",
+                "builder_theme_toggle_css-06f1c",
+                "CSS-b3589",
+                "builder_theme_toggle_css-8727d",
+                "builder_theme_toggle-5445c",
+                "CSS-a3e5f",
+                "CSS-5b049",
+                "CSS-a89eb",
+                "CSS-470a2",
+                "chatbot-fc24c",
+                "JavaScript-7d237",
+                "JavaScript-9b731",
+                "builder_theme_toggle-16343",
+                "builder_theme_toggle_css-7c7de",
+                "CSS-32e02",
+                "CSS-f2332-5ed55",
+                "CSS-047d6-6e34c",
+                "builder_theme_toggle_css-6ca74-76d4d",
+                "builder_theme_toggle-b4161-433d1",
+                "CSS-f2332",
+                "builder_theme_toggle-b4161",
+                "builder_theme_toggle_css-6ca74",
+                "CSS-047d6",
+                "builder_theme_toggle_css-47122",
+                "builder_theme_toggle-2c9ae",
+                "CSS-ec766",
+                "builder_theme_toggle_css-aa6c2",
+                "builder_theme_toggle-26bfd"
             ]]
         ],
     },
