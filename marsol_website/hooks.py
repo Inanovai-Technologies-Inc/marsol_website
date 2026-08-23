@@ -322,5 +322,16 @@ fixtures = [
             ["name", "=", "Marsol Theme"]
         ],
     },
+    {
+        "dt": "DocType",
+        "filters": [
+            ["name", "in", [
+                "Marsol Product",
+                "Marsol Related Product",
+                "Job Opening",
+                "Marsol Company Settings"
+            ]]
+        ],
+    },
     "Website Settings",
 ]
