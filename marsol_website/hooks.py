@@ -249,9 +249,18 @@ app_license = "mit"
 
 fixtures = [
     {
-        "dt": "Web Page",
+        "dt": "Builder Page",
         "filters": [
-            ["route", "in", ["marsol-home", "products", "about", "contact"]]
+            ["route", "in", [
+                "pages/homepage",
+                "pages/Abouts",
+                "pages/Contact",
+                "pages/product",
+                "pages/diffnozzel",
+                "pages/diffsystem",
+                "pages/career",
+                "pages/enviornment"
+            ]]
         ],
     },
     {
