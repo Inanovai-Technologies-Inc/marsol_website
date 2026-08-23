@@ -1,0 +1,52 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Marsol Related Product",
+  "modified": "2026-08-22 20:04:43.970578",
+  "name": "5g39c23uqh",
+  "parent": "dqqf5hkfi3",
+  "parentfield": "related_products",
+  "parenttype": "Marsol Product",
+  "product": "rnsrtjutdp"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Marsol Related Product",
+  "modified": "2026-08-22 20:05:10.971274",
+  "name": "v23fp844ah",
+  "parent": "rnsrtjutdp",
+  "parentfield": "related_products",
+  "parenttype": "Marsol Product",
+  "product": "srru839ge8"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Marsol Related Product",
+  "modified": "2026-08-22 21:59:52.278206",
+  "name": "tc4dcoo3p0",
+  "parent": "srru839ge8",
+  "parentfield": "related_products",
+  "parenttype": "Marsol Product",
+  "product": "rnsrtjutdp"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Marsol Related Product",
+  "modified": "2026-08-22 20:04:43.970578",
+  "name": "0ofij1ibps",
+  "parent": "dqqf5hkfi3",
+  "parentfield": "related_products",
+  "parenttype": "Marsol Product",
+  "product": "srru839ge8"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Marsol Related Product",
+  "modified": "2026-08-22 20:05:10.971274",
+  "name": "v231etivs7",
+  "parent": "rnsrtjutdp",
+  "parentfield": "related_products",
+  "parenttype": "Marsol Product",
+  "product": "dqqf5hkfi3"
+ }
+]

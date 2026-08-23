@@ -316,10 +316,44 @@ fixtures = [
             ]]
         ],
     },
-    {
-        "dt": "Website Theme",
+      {
+        "dt": "Marsol Product",
         "filters": [
-            ["name", "=", "Marsol Theme"]
+            ["name", "in", [
+                "srru839ge8",
+                "rnsrtjutdp",
+                "dqqf5hkfi3"
+            ]]
+        ],
+    },
+    {
+        "dt": "Marsol Related Product",
+        "filters": [
+            ["parent", "in", [
+                "srru839ge8",
+                "rnsrtjutdp",
+                "dqqf5hkfi3"
+            ]]
+        ],
+    },
+    {
+        "dt": "Job Opening",
+        "filters": [
+            ["name", "in", [
+                "teq0es1jnj",
+                "sv9999c3nk",
+                "scokfl1bfr"
+            ]]
+        ],
+    },
+    {
+        "dt": "Item",
+        "filters": [
+            ["name", "in", [
+                "SELF-CONTAINED-SKID",
+                "DIFF-NOZZLES",
+                "DIFF-FIRE-SYSTEM"
+            ]]
         ],
     },
     {
