@@ -1,0 +1,1784 @@
+{
+ "authenticated_access": 0,
+ "blocks": [
+  {
+   "baseStyles": {
+    "alignItems": "center",
+    "backgroundColor": "var(--5084c003-435e-4afe-9606-738d2fe9eaf0, #FAFAF7)",
+    "color": "var(--d6644bcb-e9fe-43a3-b3d2-5c6f8d3a4e16, #14140F)",
+    "display": "flex",
+    "flexDirection": "column",
+    "flexShrink": 0,
+    "flexWrap": "wrap",
+    "fontFamily": "Inter",
+    "width": "100%"
+   },
+   "blockId": "root",
+   "blockName": "Page",
+   "children": [
+    {
+     "blockId": "7030d9247d",
+     "blockName": "Navbar",
+     "children": [
+      {
+       "blockId": "f2a6ec9148",
+       "blockName": "Header Container",
+       "children": [
+        {
+         "blockId": "b8702bf080",
+         "blockName": "Header Row",
+         "children": [
+          {
+           "blockId": "c0fe91ea51",
+           "blockName": "Brand",
+           "children": [
+            {
+             "blockId": "5ecf86dc3e",
+             "blockName": "Wordmark",
+             "innerHTML": "MARSOL",
+             "isChildOfComponent": "mono_navbar",
+             "referenceBlockId": "404d1a3243"
+            },
+            {
+             "blockId": "5b9bb9dd0e",
+             "blockName": "Brand Dot",
+             "isChildOfComponent": "mono_navbar",
+             "referenceBlockId": "9d907e4e60"
+            }
+           ],
+           "isChildOfComponent": "mono_navbar",
+           "referenceBlockId": "7fc42784f8"
+          },
+          {
+           "blockId": "af6af295ca",
+           "blockName": "Primary Nav",
+           "children": [
+            {
+             "blockId": "ce9a41ed87",
+             "blockName": "Nav · Work",
+             "innerHTML": "Products",
+             "isChildOfComponent": "mono_navbar",
+             "referenceBlockId": "dde0bccd2a"
+            },
+            {
+             "blockId": "ca6b2e6762",
+             "blockName": "Nav · About",
+             "innerHTML": "Environmental",
+             "isChildOfComponent": "mono_navbar",
+             "referenceBlockId": "e5719541c8"
+            },
+            {
+             "blockId": "f08b0d5891",
+             "blockName": "Nav · Contact",
+             "innerHTML": "About",
+             "isChildOfComponent": "mono_navbar",
+             "referenceBlockId": "1dc7fccaa9"
+            },
+            {
+             "blockId": "k0hvdqtud",
+             "blockName": "Nav · Contact",
+             "innerHTML": "news",
+             "isChildOfComponent": "mono_navbar",
+             "referenceBlockId": "1dc7fccaa9"
+            },
+            {
+             "blockId": "q47aok0in",
+             "blockName": "Nav · Contact",
+             "innerHTML": "Careers",
+             "isChildOfComponent": "mono_navbar",
+             "referenceBlockId": "1dc7fccaa9"
+            },
+            {
+             "blockId": "oiwveaoem",
+             "blockName": "Nav · Contact",
+             "innerHTML": "Contacts",
+             "isChildOfComponent": "mono_navbar",
+             "referenceBlockId": "1dc7fccaa9"
+            }
+           ],
+           "isChildOfComponent": "mono_navbar",
+           "referenceBlockId": "bff9cff556"
+          },
+          {
+           "blockId": "79702ece80",
+           "blockName": "Nav Actions",
+           "children": [
+            {
+             "blockId": "0657644aa9",
+             "blockName": "Theme Toggle",
+             "children": [
+              {
+               "blockId": "ec2c1cebf4",
+               "blockName": "Theme · Sun",
+               "isChildOfComponent": "mono_navbar",
+               "originalElement": "__raw_html__",
+               "referenceBlockId": "80e96ccf2c"
+              },
+              {
+               "blockId": "4574d65e90",
+               "blockName": "Theme · Moon",
+               "isChildOfComponent": "mono_navbar",
+               "originalElement": "__raw_html__",
+               "referenceBlockId": "7dc38b395c"
+              }
+             ],
+             "isChildOfComponent": "mono_navbar",
+             "referenceBlockId": "d4cdbf13c3"
+            },
+            {
+             "blockId": "8f4dc8aa91",
+             "blockName": "Nav CTA",
+             "innerHTML": "Get in Touch",
+             "isChildOfComponent": "mono_navbar",
+             "referenceBlockId": "41ef09e8ea"
+            }
+           ],
+           "isChildOfComponent": "mono_navbar",
+           "referenceBlockId": "2cbea102da"
+          }
+         ],
+         "isChildOfComponent": "mono_navbar",
+         "referenceBlockId": "42ca8709db"
+        }
+       ],
+       "isChildOfComponent": "mono_navbar",
+       "referenceBlockId": "766385bfcc"
+      }
+     ],
+     "extendedFromComponent": "mono_navbar"
+    },
+    {
+     "baseStyles": {
+      "alignItems": "center",
+      "backgroundColor": "var(--5084c003-435e-4afe-9606-738d2fe9eaf0, #FAFAF7)",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "overflow": "hidden",
+      "paddingBottom": "88px",
+      "paddingTop": "104px",
+      "width": "100%"
+     },
+     "blockId": "4148aafaa0",
+     "blockName": "Section · Hero",
+     "children": [
+      {
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "marginLeft": "auto",
+        "marginRight": "auto",
+        "maxWidth": "1200px",
+        "overflow": "hidden",
+        "paddingLeft": "32px",
+        "paddingRight": "32px",
+        "width": "100%"
+       },
+       "blockId": "f3d45bb6c4",
+       "blockName": "Hero Container",
+       "children": [
+        {
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "40px",
+          "overflow": "hidden",
+          "position": "static",
+          "width": "100%"
+         },
+         "blockId": "2173b088f3",
+         "blockName": "Hero Stack",
+         "children": [
+          {
+           "attributes": {
+            "alt": "Marsol fire suppression vessel",
+            "src": "/assets/marsol_website/builder_assets/marsol-heroimg.webp"
+           },
+           "baseStyles": {
+            "borderRadius": "12px",
+            "flexShrink": 0,
+            "height": "280px",
+            "objectFit": "cover",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "position": "static",
+            "width": "100%"
+           },
+           "blockId": "qoy7lbhsd",
+           "element": "img"
+          },
+          {
+           "baseStyles": {
+            "alignItems": "center",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "10px",
+            "overflow": "hidden",
+            "width": "fit-content"
+           },
+           "blockId": "85df44ee8f",
+           "blockName": "Eyebrow",
+           "children": [
+            {
+             "baseStyles": {
+              "backgroundColor": "var(--a7daf035-5b1d-40aa-bd3e-1b522c705cd5, #7E9B1C)",
+              "borderRadius": "100px",
+              "display": "flex",
+              "flexDirection": "column",
+              "flexShrink": 0,
+              "height": "8px",
+              "overflow": "hidden",
+              "width": "8px"
+             },
+             "blockId": "2e79325f99",
+             "blockName": "Eyebrow Dot",
+             "element": "div"
+            },
+            {
+             "baseStyles": {
+              "color": "var(--d6644bcb-e9fe-43a3-b3d2-5c6f8d3a4e16, #14140F)",
+              "fontFamily": "Inter",
+              "fontSize": "12px",
+              "fontWeight": "500",
+              "height": "fit-content",
+              "letterSpacing": "0.1em",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "width": "fit-content"
+             },
+             "blockId": "a6f4602c56",
+             "blockName": "Eyebrow Text",
+             "element": "span",
+             "innerHTML": "FIRE SUPPRESSION, ENGINEERED"
+            }
+           ],
+           "element": "div"
+          },
+          {
+           "baseStyles": {
+            "color": "var(--d6644bcb-e9fe-43a3-b3d2-5c6f8d3a4e16, #14140F)",
+            "fontFamily": "Space Grotesk",
+            "fontSize": "88px",
+            "fontWeight": "500",
+            "height": "fit-content",
+            "letterSpacing": "-0.03em",
+            "lineHeight": "1.02",
+            "maxWidth": "980px",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "0e810b4090",
+           "blockName": "Hero Title",
+           "element": "h1",
+           "innerHTML": "Built for the moment it matters",
+           "mobileStyles": {
+            "fontSize": "44px"
+           }
+          },
+          {
+           "baseStyles": {
+            "alignItems": "flex-end",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "flexWrap": "wrap",
+            "gap": "32px",
+            "justifyContent": "space-between",
+            "overflow": "hidden",
+            "width": "100%"
+           },
+           "blockId": "b40b09c44b",
+           "blockName": "Hero Bottom Row",
+           "children": [
+            {
+             "baseStyles": {
+              "color": "var(--71911d82-22b2-4753-bddf-b2d6726a820d, #6B6B61)",
+              "fontFamily": "Inter",
+              "fontSize": "18px",
+              "height": "fit-content",
+              "lineHeight": "1.7",
+              "maxWidth": "560px",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "b7304c7cf4",
+             "blockName": "Hero Subtitle",
+             "element": "p",
+             "innerHTML": "30+ years of engineering experience, from Gulf Coast helidecks to vertiports and battery storage sites."
+            },
+            {
+             "baseStyles": {
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "flexWrap": "wrap",
+              "gap": "12px",
+              "overflow": "hidden"
+             },
+             "blockId": "c3963068bb",
+             "blockName": "Hero Actions",
+             "children": [
+              {
+               "attributes": {
+                "href": "#work"
+               },
+               "baseStyles": {
+                "alignItems": "center",
+                "backgroundColor": "var(--a7daf035-5b1d-40aa-bd3e-1b522c705cd5, #7E9B1C)",
+                "borderRadius": "100px",
+                "color": "var(--49c14d2a-0a7b-4e82-a82d-1cf6a9041e0a, #FFFFFF)",
+                "cursor": "pointer",
+                "display": "inline-flex",
+                "fontFamily": "Space Grotesk",
+                "fontSize": "15px",
+                "fontWeight": "500",
+                "height": "fit-content",
+                "hover:opacity": "0.85",
+                "justifyContent": "center",
+                "lineHeight": "1.4",
+                "minWidth": "10px",
+                "paddingBottom": "14px",
+                "paddingLeft": "28px",
+                "paddingRight": "28px",
+                "paddingTop": "14px",
+                "textDecoration": "none",
+                "transition": "opacity 0.15s ease-out",
+                "width": "fit-content"
+               },
+               "blockId": "b4bbb4537e",
+               "blockName": "Hero CTA",
+               "element": "a",
+               "innerHTML": "Explore the Catalogue"
+              },
+              {
+               "attributes": {
+                "href": "about"
+               },
+               "baseStyles": {
+                "alignItems": "center",
+                "backgroundColor": "transparent",
+                "borderColor": "var(--bdea6039-60bc-445e-9f9e-5c82000b5839, #E7E6DE)",
+                "borderRadius": "100px",
+                "borderStyle": "solid",
+                "borderWidth": "1px",
+                "color": "var(--d6644bcb-e9fe-43a3-b3d2-5c6f8d3a4e16, #14140F)",
+                "cursor": "pointer",
+                "display": "inline-flex",
+                "fontFamily": "Space Grotesk",
+                "fontSize": "15px",
+                "fontWeight": "500",
+                "height": "fit-content",
+                "hover:borderColor": "var(--71911d82-22b2-4753-bddf-b2d6726a820d, #6B6B61)",
+                "justifyContent": "center",
+                "lineHeight": "1.4",
+                "minWidth": "10px",
+                "paddingBottom": "13px",
+                "paddingLeft": "26px",
+                "paddingRight": "26px",
+                "paddingTop": "13px",
+                "textDecoration": "none",
+                "transition": "border-color 0.15s ease-out",
+                "width": "fit-content"
+               },
+               "blockId": "efee6cd122",
+               "blockName": "Hero Secondary",
+               "element": "a",
+               "innerHTML": "About Marsol"
+              }
+             ],
+             "element": "div"
+            }
+           ],
+           "element": "div"
+          }
+         ],
+         "element": "div"
+        }
+       ],
+       "element": "div"
+      }
+     ],
+     "element": "div"
+    },
+    {
+     "baseStyles": {
+      "alignItems": "center",
+      "backgroundColor": "var(--5084c003-435e-4afe-9606-738d2fe9eaf0, #FAFAF7)",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "overflow": "hidden",
+      "paddingBottom": "96px",
+      "paddingTop": "40px",
+      "width": "100%"
+     },
+     "blockId": "f61763977e",
+     "blockName": "Section · Work",
+     "children": [
+      {
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "overflow": "hidden",
+        "width": "100%"
+       },
+       "blockId": "03d8be363e",
+       "blockName": "Work Anchor",
+       "children": [
+        {
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "marginLeft": "auto",
+          "marginRight": "auto",
+          "maxWidth": "1200px",
+          "overflow": "hidden",
+          "paddingLeft": "32px",
+          "paddingRight": "32px",
+          "width": "100%"
+         },
+         "blockId": "ac400b50c8",
+         "blockName": "Work Container",
+         "children": [
+          {
+           "baseStyles": {
+            "alignItems": "flex-end",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "flexWrap": "wrap",
+            "gap": "24px",
+            "justifyContent": "space-between",
+            "marginBottom": "40px",
+            "overflow": "hidden",
+            "width": "100%"
+           },
+           "blockId": "cb87c9f0c0",
+           "blockName": "Work Head",
+           "children": [
+            {
+             "baseStyles": {
+              "color": "var(--d6644bcb-e9fe-43a3-b3d2-5c6f8d3a4e16, #14140F)",
+              "fontFamily": "Space Grotesk",
+              "fontSize": "44px",
+              "fontWeight": "500",
+              "height": "fit-content",
+              "letterSpacing": "-0.03em",
+              "lineHeight": "1.02",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "b83e2eacd4",
+             "blockName": "Work Title",
+             "element": "h2",
+             "innerHTML": "Our Products",
+             "mobileStyles": {
+              "fontSize": "32px"
+             }
+            },
+            {
+             "baseStyles": {
+              "color": "var(--71911d82-22b2-4753-bddf-b2d6726a820d, #6B6B61)",
+              "fontFamily": "Inter",
+              "fontSize": "12px",
+              "fontWeight": "500",
+              "height": "fit-content",
+              "letterSpacing": "0.1em",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "width": "fit-content"
+             },
+             "blockId": "515be7825e",
+             "blockName": "Work Range",
+             "element": "span",
+             "innerHTML": "2023 - 2026"
+            }
+           ],
+           "element": "div"
+          },
+          {
+           "baseStyles": {
+            "display": "grid",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "28px",
+            "gridTemplateColumns": "repeat(2, 1fr)",
+            "overflow": "hidden",
+            "width": "100%"
+           },
+           "blockId": "e1fb67e476",
+           "blockName": "Work Grid",
+           "children": [
+            {
+             "attributes": {
+              "href": "products"
+             },
+             "baseStyles": {
+              "display": "flex",
+              "flexDirection": "column",
+              "fontSize": "16px",
+              "height": "fit-content",
+              "lineHeight": "1.4",
+              "minWidth": "0px",
+              "textDecoration": "none",
+              "width": "100%"
+             },
+             "blockId": "78de15ee89",
+             "blockName": "Project · Nova",
+             "children": [
+              {
+               "attributes": {
+                "alt": "DIFF System - Marsol Technologies",
+                "src": "https://marsol-website-three.vercel.app/_next/image?url=%2Fimages%2Fproducts%2Fdiff-system.png&w=640&q=75"
+               },
+               "baseStyles": {
+                "borderRadius": "18px",
+                "flexShrink": 0,
+                "height": "420px",
+                "objectFit": "cover",
+                "width": "100%"
+               },
+               "blockId": "31ad1d4252",
+               "blockName": "Card Image",
+               "element": "img",
+               "mobileStyles": {
+                "height": "260px"
+               }
+              },
+              {
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexDirection": "row",
+                "flexShrink": 0,
+                "justifyContent": "space-between",
+                "overflow": "hidden",
+                "paddingTop": "16px",
+                "width": "100%"
+               },
+               "blockId": "c69b43ce30",
+               "blockName": "Card Meta",
+               "children": [
+                {
+                 "baseStyles": {
+                  "display": "flex",
+                  "flexDirection": "column",
+                  "flexShrink": 0,
+                  "gap": "4px",
+                  "overflow": "hidden"
+                 },
+                 "blockId": "eb6a76c230",
+                 "blockName": "Card Copy",
+                 "children": [
+                  {
+                   "baseStyles": {
+                    "color": "var(--d6644bcb-e9fe-43a3-b3d2-5c6f8d3a4e16, #14140F)",
+                    "fontFamily": "Space Grotesk",
+                    "fontSize": "22px",
+                    "fontWeight": "500",
+                    "height": "fit-content",
+                    "letterSpacing": "-0.03em",
+                    "lineHeight": "1.02",
+                    "minWidth": "10px",
+                    "width": "fit-content"
+                   },
+                   "blockId": "cc01899156",
+                   "blockName": "Card Title",
+                   "element": "h3",
+                   "innerHTML": "DIFF System"
+                  },
+                  {
+                   "baseStyles": {
+                    "color": "var(--71911d82-22b2-4753-bddf-b2d6726a820d, #6B6B61)",
+                    "fontFamily": "Inter",
+                    "fontSize": "13px",
+                    "height": "fit-content",
+                    "lineHeight": "1.7",
+                    "minWidth": "10px",
+                    "width": "fit-content"
+                   },
+                   "blockId": "652ba8b384",
+                   "blockName": "Card Tags",
+                   "element": "p",
+                   "innerHTML": "Deck & Helideck Fire Suppression"
+                  }
+                 ],
+                 "element": "div"
+                },
+                {
+                 "baseStyles": {
+                  "color": "var(--71911d82-22b2-4753-bddf-b2d6726a820d, #6B6B61)",
+                  "flexShrink": 0,
+                  "fontFamily": "Inter",
+                  "fontSize": "12px",
+                  "fontWeight": "500",
+                  "height": "fit-content",
+                  "letterSpacing": "0.1em",
+                  "lineHeight": "1.4",
+                  "minWidth": "10px",
+                  "textTransform": "uppercase",
+                  "whiteSpace": "nowrap",
+                  "width": "fit-content"
+                 },
+                 "blockId": "f82423961f",
+                 "blockName": "Card Year",
+                 "element": "span",
+                 "innerHTML": "Flagship System"
+                }
+               ],
+               "element": "div"
+              }
+             ],
+             "element": "a"
+            },
+            {
+             "attributes": {
+              "href": "project"
+             },
+             "baseStyles": {
+              "display": "flex",
+              "flexDirection": "column",
+              "fontSize": "16px",
+              "height": "fit-content",
+              "lineHeight": "1.4",
+              "minWidth": "0px",
+              "textDecoration": "none",
+              "width": "100%"
+             },
+             "blockId": "65a8bb1661",
+             "blockName": "Project · Halide",
+             "children": [
+              {
+               "attributes": {
+                "alt": "Halide - a calmer camera",
+                "src": "https://marsol-website-three.vercel.app/_next/image?url=%2Fimages%2Fproducts%2Fdiff-nozzles.png&w=640&q=75"
+               },
+               "baseStyles": {
+                "borderRadius": "18px",
+                "flexShrink": 0,
+                "height": "420px",
+                "objectFit": "cover",
+                "width": "100%"
+               },
+               "blockId": "98db4322a9",
+               "blockName": "Card Image",
+               "element": "img",
+               "mobileStyles": {
+                "height": "260px"
+               }
+              },
+              {
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexDirection": "row",
+                "flexShrink": 0,
+                "justifyContent": "space-between",
+                "overflow": "hidden",
+                "paddingTop": "16px",
+                "width": "100%"
+               },
+               "blockId": "511a20902f",
+               "blockName": "Card Meta",
+               "children": [
+                {
+                 "baseStyles": {
+                  "display": "flex",
+                  "flexDirection": "column",
+                  "flexShrink": 0,
+                  "gap": "4px",
+                  "overflow": "hidden"
+                 },
+                 "blockId": "dc2c89633b",
+                 "blockName": "Card Copy",
+                 "children": [
+                  {
+                   "baseStyles": {
+                    "color": "var(--d6644bcb-e9fe-43a3-b3d2-5c6f8d3a4e16, #14140F)",
+                    "fontFamily": "Space Grotesk",
+                    "fontSize": "22px",
+                    "fontWeight": "500",
+                    "height": "fit-content",
+                    "letterSpacing": "-0.03em",
+                    "lineHeight": "1.02",
+                    "minWidth": "10px",
+                    "width": "fit-content"
+                   },
+                   "blockId": "757bddcb2c",
+                   "blockName": "Card Title",
+                   "element": "h3",
+                   "innerHTML": "DIFF Nozzles"
+                  },
+                  {
+                   "baseStyles": {
+                    "color": "var(--71911d82-22b2-4753-bddf-b2d6726a820d, #6B6B61)",
+                    "fontFamily": "Inter",
+                    "fontSize": "13px",
+                    "height": "fit-content",
+                    "lineHeight": "1.7",
+                    "minWidth": "10px",
+                    "width": "fit-content"
+                   },
+                   "blockId": "1bfbd5f310",
+                   "blockName": "Card Tags",
+                   "element": "p",
+                   "innerHTML": "Deck & Helideck Fire Suppression"
+                  }
+                 ],
+                 "element": "div"
+                },
+                {
+                 "baseStyles": {
+                  "color": "var(--71911d82-22b2-4753-bddf-b2d6726a820d, #6B6B61)",
+                  "flexShrink": 0,
+                  "fontFamily": "Inter",
+                  "fontSize": "12px",
+                  "fontWeight": "500",
+                  "height": "fit-content",
+                  "letterSpacing": "0.1em",
+                  "lineHeight": "1.4",
+                  "minWidth": "10px",
+                  "textTransform": "uppercase",
+                  "whiteSpace": "nowrap",
+                  "width": "fit-content"
+                 },
+                 "blockId": "caf69dead4",
+                 "blockName": "Card Year",
+                 "element": "span",
+                 "innerHTML": "Marsol"
+                }
+               ],
+               "element": "div"
+              }
+             ],
+             "element": "a"
+            },
+            {
+             "attributes": {
+              "href": "project"
+             },
+             "baseStyles": {
+              "display": "flex",
+              "flexDirection": "column",
+              "fontSize": "16px",
+              "height": "fit-content",
+              "lineHeight": "1.4",
+              "minWidth": "0px",
+              "textDecoration": "none",
+              "width": "100%"
+             },
+             "blockId": "820cfa0375",
+             "blockName": "Project · Field Notes",
+             "children": [
+              {
+               "attributes": {
+                "alt": "Field Notes - print, revived",
+                "src": "https://marsol-website-three.vercel.app/_next/image?url=%2Fimages%2Fproducts%2Ffoam-tank-skid.jpg&w=640&q=75"
+               },
+               "baseStyles": {
+                "borderRadius": "18px",
+                "flexShrink": 0,
+                "height": "420px",
+                "objectFit": "cover",
+                "width": "100%"
+               },
+               "blockId": "772c5ed319",
+               "blockName": "Card Image",
+               "element": "img",
+               "mobileStyles": {
+                "height": "260px"
+               }
+              },
+              {
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexDirection": "row",
+                "flexShrink": 0,
+                "justifyContent": "space-between",
+                "overflow": "hidden",
+                "paddingTop": "16px",
+                "width": "100%"
+               },
+               "blockId": "22c5e0df39",
+               "blockName": "Card Meta",
+               "children": [
+                {
+                 "baseStyles": {
+                  "display": "flex",
+                  "flexDirection": "column",
+                  "flexShrink": 0,
+                  "gap": "4px",
+                  "overflow": "hidden"
+                 },
+                 "blockId": "21631db468",
+                 "blockName": "Card Copy",
+                 "children": [
+                  {
+                   "baseStyles": {
+                    "color": "var(--d6644bcb-e9fe-43a3-b3d2-5c6f8d3a4e16, #14140F)",
+                    "fontFamily": "Space Grotesk",
+                    "fontSize": "22px",
+                    "fontWeight": "500",
+                    "height": "fit-content",
+                    "letterSpacing": "-0.03em",
+                    "lineHeight": "1.02",
+                    "minWidth": "10px",
+                    "width": "fit-content"
+                   },
+                   "blockId": "c45ccd805e",
+                   "blockName": "Card Title",
+                   "element": "h3",
+                   "innerHTML": "Self-Contained Skid"
+                  },
+                  {
+                   "baseStyles": {
+                    "color": "var(--71911d82-22b2-4753-bddf-b2d6726a820d, #6B6B61)",
+                    "fontFamily": "Inter",
+                    "fontSize": "13px",
+                    "height": "fit-content",
+                    "lineHeight": "1.7",
+                    "minWidth": "10px",
+                    "width": "fit-content"
+                   },
+                   "blockId": "c1d022dc59",
+                   "blockName": "Card Tags",
+                   "element": "p",
+                   "innerHTML": "Deck & Helideck Fire Suppression"
+                  }
+                 ],
+                 "element": "div"
+                },
+                {
+                 "baseStyles": {
+                  "color": "var(--71911d82-22b2-4753-bddf-b2d6726a820d, #6B6B61)",
+                  "flexShrink": 0,
+                  "fontFamily": "Inter",
+                  "fontSize": "12px",
+                  "fontWeight": "500",
+                  "height": "fit-content",
+                  "letterSpacing": "0.1em",
+                  "lineHeight": "1.4",
+                  "minWidth": "10px",
+                  "textTransform": "uppercase",
+                  "whiteSpace": "nowrap",
+                  "width": "fit-content"
+                 },
+                 "blockId": "c15ed6745c",
+                 "blockName": "Card Year",
+                 "element": "span",
+                 "innerHTML": "Marsol"
+                }
+               ],
+               "element": "div"
+              }
+             ],
+             "element": "a"
+            },
+            {
+             "attributes": {
+              "href": "project"
+             },
+             "baseStyles": {
+              "display": "flex",
+              "flexDirection": "column",
+              "fontSize": "16px",
+              "height": "fit-content",
+              "lineHeight": "1.4",
+              "minWidth": "0px",
+              "textDecoration": "none",
+              "width": "100%"
+             },
+             "blockId": "71e2b44b84",
+             "blockName": "Project · Pluto",
+             "children": [
+              {
+               "attributes": {
+                "alt": "Pluto - devtools with taste",
+                "src": "https://marsol-website-three.vercel.app/_next/image?url=%2Fimages%2Fproducts%2Finterior-first-attack-nozzle.png&w=640&q=75"
+               },
+               "baseStyles": {
+                "borderRadius": "18px",
+                "flexShrink": 0,
+                "height": "420px",
+                "objectFit": "cover",
+                "width": "100%"
+               },
+               "blockId": "7d9c5d00dc",
+               "blockName": "Card Image",
+               "element": "img",
+               "mobileStyles": {
+                "height": "260px"
+               }
+              },
+              {
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexDirection": "row",
+                "flexShrink": 0,
+                "justifyContent": "space-between",
+                "overflow": "hidden",
+                "paddingTop": "16px",
+                "width": "100%"
+               },
+               "blockId": "f310fe7546",
+               "blockName": "Card Meta",
+               "children": [
+                {
+                 "baseStyles": {
+                  "display": "flex",
+                  "flexDirection": "column",
+                  "flexShrink": 0,
+                  "gap": "4px",
+                  "overflow": "hidden"
+                 },
+                 "blockId": "601830b18f",
+                 "blockName": "Card Copy",
+                 "children": [
+                  {
+                   "baseStyles": {
+                    "color": "var(--d6644bcb-e9fe-43a3-b3d2-5c6f8d3a4e16, #14140F)",
+                    "fontFamily": "Space Grotesk",
+                    "fontSize": "22px",
+                    "fontWeight": "500",
+                    "height": "fit-content",
+                    "letterSpacing": "-0.03em",
+                    "lineHeight": "1.02",
+                    "minWidth": "10px",
+                    "width": "fit-content"
+                   },
+                   "blockId": "ce7fa5d905",
+                   "blockName": "Card Title",
+                   "element": "h3",
+                   "innerHTML": "Foam Tank Skid"
+                  },
+                  {
+                   "baseStyles": {
+                    "color": "var(--71911d82-22b2-4753-bddf-b2d6726a820d, #6B6B61)",
+                    "fontFamily": "Inter",
+                    "fontSize": "13px",
+                    "height": "fit-content",
+                    "lineHeight": "1.7",
+                    "minWidth": "10px",
+                    "width": "fit-content"
+                   },
+                   "blockId": "c7afdfb2d8",
+                   "blockName": "Card Tags",
+                   "element": "p",
+                   "innerHTML": "Deck & Helideck Fire Suppression"
+                  }
+                 ],
+                 "element": "div"
+                },
+                {
+                 "baseStyles": {
+                  "color": "var(--71911d82-22b2-4753-bddf-b2d6726a820d, #6B6B61)",
+                  "flexShrink": 0,
+                  "fontFamily": "Inter",
+                  "fontSize": "12px",
+                  "fontWeight": "500",
+                  "height": "fit-content",
+                  "letterSpacing": "0.1em",
+                  "lineHeight": "1.4",
+                  "minWidth": "10px",
+                  "textTransform": "uppercase",
+                  "whiteSpace": "nowrap",
+                  "width": "fit-content"
+                 },
+                 "blockId": "8fd12cad9b",
+                 "blockName": "Card Year",
+                 "element": "span",
+                 "innerHTML": "marsol"
+                }
+               ],
+               "element": "div"
+              }
+             ],
+             "element": "a"
+            }
+           ],
+           "element": "div",
+           "mobileStyles": {
+            "gridTemplateColumns": "1fr"
+           }
+          }
+         ],
+         "element": "div"
+        }
+       ],
+       "customAttributes": {
+        "id": "work"
+       },
+       "element": "div"
+      }
+     ],
+     "element": "div"
+    },
+    {
+     "baseStyles": {
+      "alignItems": "center",
+      "backgroundColor": "var(--5084c003-435e-4afe-9606-738d2fe9eaf0, #FAFAF7)",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "overflow": "hidden",
+      "paddingBottom": "96px",
+      "paddingTop": "24px",
+      "width": "100%"
+     },
+     "blockId": "56e618e2bf",
+     "blockName": "Section · Capabilities",
+     "children": [
+      {
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "marginLeft": "auto",
+        "marginRight": "auto",
+        "maxWidth": "1200px",
+        "overflow": "hidden",
+        "paddingLeft": "32px",
+        "paddingRight": "32px",
+        "width": "100%"
+       },
+       "blockId": "28c866511d",
+       "blockName": "Capabilities Container",
+       "children": [
+        {
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "12px",
+          "marginBottom": "44px",
+          "overflow": "hidden"
+         },
+         "blockId": "fb0a3d1911",
+         "blockName": "Cap Head",
+         "children": [
+          {
+           "baseStyles": {
+            "alignItems": "center",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "10px",
+            "overflow": "hidden",
+            "width": "fit-content"
+           },
+           "blockId": "81878e9c61",
+           "blockName": "Eyebrow",
+           "children": [
+            {
+             "baseStyles": {
+              "backgroundColor": "var(--a7daf035-5b1d-40aa-bd3e-1b522c705cd5, #7E9B1C)",
+              "borderRadius": "100px",
+              "display": "flex",
+              "flexDirection": "column",
+              "flexShrink": 0,
+              "height": "8px",
+              "overflow": "hidden",
+              "width": "8px"
+             },
+             "blockId": "5c3d7fb323",
+             "blockName": "Eyebrow Dot",
+             "element": "div"
+            },
+            {
+             "baseStyles": {
+              "color": "var(--d6644bcb-e9fe-43a3-b3d2-5c6f8d3a4e16, #14140F)",
+              "fontFamily": "Inter",
+              "fontSize": "12px",
+              "fontWeight": "500",
+              "height": "fit-content",
+              "letterSpacing": "0.1em",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "width": "fit-content"
+             },
+             "blockId": "44349a2782",
+             "blockName": "Eyebrow Text",
+             "element": "span",
+             "innerHTML": "What we do"
+            }
+           ],
+           "element": "div"
+          },
+          {
+           "baseStyles": {
+            "color": "var(--d6644bcb-e9fe-43a3-b3d2-5c6f8d3a4e16, #14140F)",
+            "fontFamily": "Space Grotesk",
+            "fontSize": "44px",
+            "fontWeight": "500",
+            "height": "fit-content",
+            "letterSpacing": "-0.03em",
+            "lineHeight": "1.02",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "e564f2326e",
+           "blockName": "Cap Section Title",
+           "element": "h2",
+           "innerHTML": "Three crafts,<br>one team.",
+           "mobileStyles": {
+            "fontSize": "32px"
+           }
+          }
+         ],
+         "element": "div"
+        },
+        {
+         "baseStyles": {
+          "display": "grid",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "28px",
+          "gridTemplateColumns": "repeat(3, 1fr)",
+          "overflow": "hidden",
+          "width": "100%"
+         },
+         "blockId": "370c5f21db",
+         "blockName": "Capabilities Grid",
+         "children": [
+          {
+           "baseStyles": {
+            "borderTopColor": "var(--bdea6039-60bc-445e-9f9e-5c82000b5839, #E7E6DE)",
+            "borderTopStyle": "solid",
+            "borderTopWidth": "1px",
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "16px",
+            "overflow": "hidden",
+            "paddingTop": "28px"
+           },
+           "blockId": "4b7f93d5f9",
+           "blockName": "Capability · Brand identity",
+           "children": [
+            {
+             "baseStyles": {
+              "color": "var(--a7daf035-5b1d-40aa-bd3e-1b522c705cd5, #7E9B1C)",
+              "fontFamily": "Inter",
+              "fontSize": "12px",
+              "fontWeight": "500",
+              "height": "fit-content",
+              "letterSpacing": "0.1em",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "width": "fit-content"
+             },
+             "blockId": "c059558446",
+             "blockName": "Cap Number",
+             "element": "span",
+             "innerHTML": "01"
+            },
+            {
+             "baseStyles": {
+              "color": "var(--d6644bcb-e9fe-43a3-b3d2-5c6f8d3a4e16, #14140F)",
+              "fontFamily": "Space Grotesk",
+              "fontSize": "26px",
+              "fontWeight": "500",
+              "height": "fit-content",
+              "letterSpacing": "-0.03em",
+              "lineHeight": "1.02",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "1492e15db2",
+             "blockName": "Cap Title",
+             "element": "h3",
+             "innerHTML": "Brand identity"
+            },
+            {
+             "baseStyles": {
+              "display": "flex",
+              "flexDirection": "column",
+              "flexShrink": 0,
+              "gap": "8px",
+              "overflow": "hidden"
+             },
+             "blockId": "1b89b15e28",
+             "blockName": "Cap Items",
+             "children": [
+              {
+               "baseStyles": {
+                "color": "var(--71911d82-22b2-4753-bddf-b2d6726a820d, #6B6B61)",
+                "fontFamily": "Inter",
+                "fontSize": "15px",
+                "height": "fit-content",
+                "lineHeight": "1.7",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "452171810c",
+               "blockName": "Cap Item · Strategy & nam",
+               "element": "p",
+               "innerHTML": "Strategy & naming"
+              },
+              {
+               "baseStyles": {
+                "color": "var(--71911d82-22b2-4753-bddf-b2d6726a820d, #6B6B61)",
+                "fontFamily": "Inter",
+                "fontSize": "15px",
+                "height": "fit-content",
+                "lineHeight": "1.7",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "a59b10674a",
+               "blockName": "Cap Item · Visual identit",
+               "element": "p",
+               "innerHTML": "Visual identity"
+              },
+              {
+               "baseStyles": {
+                "color": "var(--71911d82-22b2-4753-bddf-b2d6726a820d, #6B6B61)",
+                "fontFamily": "Inter",
+                "fontSize": "15px",
+                "height": "fit-content",
+                "lineHeight": "1.7",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "7e08c2fb20",
+               "blockName": "Cap Item · Guidelines",
+               "element": "p",
+               "innerHTML": "Guidelines"
+              },
+              {
+               "baseStyles": {
+                "color": "var(--71911d82-22b2-4753-bddf-b2d6726a820d, #6B6B61)",
+                "fontFamily": "Inter",
+                "fontSize": "15px",
+                "height": "fit-content",
+                "lineHeight": "1.7",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "520c065050",
+               "blockName": "Cap Item · Art direction",
+               "element": "p",
+               "innerHTML": "Art direction"
+              }
+             ],
+             "element": "div"
+            }
+           ],
+           "element": "div"
+          },
+          {
+           "baseStyles": {
+            "borderTopColor": "var(--bdea6039-60bc-445e-9f9e-5c82000b5839, #E7E6DE)",
+            "borderTopStyle": "solid",
+            "borderTopWidth": "1px",
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "16px",
+            "overflow": "hidden",
+            "paddingTop": "28px"
+           },
+           "blockId": "1d109237ae",
+           "blockName": "Capability · Product design",
+           "children": [
+            {
+             "baseStyles": {
+              "color": "var(--a7daf035-5b1d-40aa-bd3e-1b522c705cd5, #7E9B1C)",
+              "fontFamily": "Inter",
+              "fontSize": "12px",
+              "fontWeight": "500",
+              "height": "fit-content",
+              "letterSpacing": "0.1em",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "width": "fit-content"
+             },
+             "blockId": "523539bf2d",
+             "blockName": "Cap Number",
+             "element": "span",
+             "innerHTML": "02"
+            },
+            {
+             "baseStyles": {
+              "color": "var(--d6644bcb-e9fe-43a3-b3d2-5c6f8d3a4e16, #14140F)",
+              "fontFamily": "Space Grotesk",
+              "fontSize": "26px",
+              "fontWeight": "500",
+              "height": "fit-content",
+              "letterSpacing": "-0.03em",
+              "lineHeight": "1.02",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "10926fdd74",
+             "blockName": "Cap Title",
+             "element": "h3",
+             "innerHTML": "Product design"
+            },
+            {
+             "baseStyles": {
+              "display": "flex",
+              "flexDirection": "column",
+              "flexShrink": 0,
+              "gap": "8px",
+              "overflow": "hidden"
+             },
+             "blockId": "89e4ef10ca",
+             "blockName": "Cap Items",
+             "children": [
+              {
+               "baseStyles": {
+                "color": "var(--71911d82-22b2-4753-bddf-b2d6726a820d, #6B6B61)",
+                "fontFamily": "Inter",
+                "fontSize": "15px",
+                "height": "fit-content",
+                "lineHeight": "1.7",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "1f690096a7",
+               "blockName": "Cap Item · UX & interface",
+               "element": "p",
+               "innerHTML": "UX & interface design"
+              },
+              {
+               "baseStyles": {
+                "color": "var(--71911d82-22b2-4753-bddf-b2d6726a820d, #6B6B61)",
+                "fontFamily": "Inter",
+                "fontSize": "15px",
+                "height": "fit-content",
+                "lineHeight": "1.7",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "5f88e36337",
+               "blockName": "Cap Item · Design systems",
+               "element": "p",
+               "innerHTML": "Design systems"
+              },
+              {
+               "baseStyles": {
+                "color": "var(--71911d82-22b2-4753-bddf-b2d6726a820d, #6B6B61)",
+                "fontFamily": "Inter",
+                "fontSize": "15px",
+                "height": "fit-content",
+                "lineHeight": "1.7",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "d891332f65",
+               "blockName": "Cap Item · Prototyping",
+               "element": "p",
+               "innerHTML": "Prototyping"
+              },
+              {
+               "baseStyles": {
+                "color": "var(--71911d82-22b2-4753-bddf-b2d6726a820d, #6B6B61)",
+                "fontFamily": "Inter",
+                "fontSize": "15px",
+                "height": "fit-content",
+                "lineHeight": "1.7",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "3c1b24b1ca",
+               "blockName": "Cap Item · Front-end hand",
+               "element": "p",
+               "innerHTML": "Front-end handoff"
+              }
+             ],
+             "element": "div"
+            }
+           ],
+           "element": "div"
+          },
+          {
+           "baseStyles": {
+            "borderTopColor": "var(--bdea6039-60bc-445e-9f9e-5c82000b5839, #E7E6DE)",
+            "borderTopStyle": "solid",
+            "borderTopWidth": "1px",
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "16px",
+            "overflow": "hidden",
+            "paddingTop": "28px"
+           },
+           "blockId": "b129ce67bd",
+           "blockName": "Capability · Motion",
+           "children": [
+            {
+             "baseStyles": {
+              "color": "var(--a7daf035-5b1d-40aa-bd3e-1b522c705cd5, #7E9B1C)",
+              "fontFamily": "Inter",
+              "fontSize": "12px",
+              "fontWeight": "500",
+              "height": "fit-content",
+              "letterSpacing": "0.1em",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "width": "fit-content"
+             },
+             "blockId": "b3dfc44850",
+             "blockName": "Cap Number",
+             "element": "span",
+             "innerHTML": "03"
+            },
+            {
+             "baseStyles": {
+              "color": "var(--d6644bcb-e9fe-43a3-b3d2-5c6f8d3a4e16, #14140F)",
+              "fontFamily": "Space Grotesk",
+              "fontSize": "26px",
+              "fontWeight": "500",
+              "height": "fit-content",
+              "letterSpacing": "-0.03em",
+              "lineHeight": "1.02",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "afb312c0e8",
+             "blockName": "Cap Title",
+             "element": "h3",
+             "innerHTML": "Motion"
+            },
+            {
+             "baseStyles": {
+              "display": "flex",
+              "flexDirection": "column",
+              "flexShrink": 0,
+              "gap": "8px",
+              "overflow": "hidden"
+             },
+             "blockId": "837ab329b1",
+             "blockName": "Cap Items",
+             "children": [
+              {
+               "baseStyles": {
+                "color": "var(--71911d82-22b2-4753-bddf-b2d6726a820d, #6B6B61)",
+                "fontFamily": "Inter",
+                "fontSize": "15px",
+                "height": "fit-content",
+                "lineHeight": "1.7",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "d551b9b697",
+               "blockName": "Cap Item · Brand films",
+               "element": "p",
+               "innerHTML": "Brand films"
+              },
+              {
+               "baseStyles": {
+                "color": "var(--71911d82-22b2-4753-bddf-b2d6726a820d, #6B6B61)",
+                "fontFamily": "Inter",
+                "fontSize": "15px",
+                "height": "fit-content",
+                "lineHeight": "1.7",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "a6e067536b",
+               "blockName": "Cap Item · Product launch",
+               "element": "p",
+               "innerHTML": "Product launches"
+              },
+              {
+               "baseStyles": {
+                "color": "var(--71911d82-22b2-4753-bddf-b2d6726a820d, #6B6B61)",
+                "fontFamily": "Inter",
+                "fontSize": "15px",
+                "height": "fit-content",
+                "lineHeight": "1.7",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "9b891a08db",
+               "blockName": "Cap Item · Lottie & rive",
+               "element": "p",
+               "innerHTML": "Lottie & rive"
+              },
+              {
+               "baseStyles": {
+                "color": "var(--71911d82-22b2-4753-bddf-b2d6726a820d, #6B6B61)",
+                "fontFamily": "Inter",
+                "fontSize": "15px",
+                "height": "fit-content",
+                "lineHeight": "1.7",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "13d771debd",
+               "blockName": "Cap Item · Social cuts",
+               "element": "p",
+               "innerHTML": "Social cuts"
+              }
+             ],
+             "element": "div"
+            }
+           ],
+           "element": "div"
+          }
+         ],
+         "element": "div",
+         "mobileStyles": {
+          "gridTemplateColumns": "1fr"
+         }
+        }
+       ],
+       "element": "div"
+      }
+     ],
+     "element": "div"
+    },
+    {
+     "baseStyles": {
+      "alignItems": "center",
+      "backgroundColor": "var(--5084c003-435e-4afe-9606-738d2fe9eaf0, #FAFAF7)",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "overflow": "hidden",
+      "paddingBottom": "40px",
+      "width": "100%"
+     },
+     "blockId": "66063bbbc8",
+     "blockName": "Section · Quote",
+     "children": [
+      {
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "marginLeft": "auto",
+        "marginRight": "auto",
+        "maxWidth": "1200px",
+        "overflow": "hidden",
+        "paddingLeft": "32px",
+        "paddingRight": "32px",
+        "width": "100%"
+       },
+       "blockId": "d932d5865c",
+       "blockName": "Quote Container",
+       "children": [
+        {
+         "baseStyles": {
+          "alignItems": "center",
+          "borderTopColor": "var(--bdea6039-60bc-445e-9f9e-5c82000b5839, #E7E6DE)",
+          "borderTopStyle": "solid",
+          "borderTopWidth": "1px",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "24px",
+          "overflow": "hidden",
+          "paddingBottom": "72px",
+          "paddingTop": "72px",
+          "width": "100%"
+         },
+         "blockId": "9858c9ba81",
+         "blockName": "Quote Stack",
+         "children": [
+          {
+           "baseStyles": {
+            "color": "var(--d6644bcb-e9fe-43a3-b3d2-5c6f8d3a4e16, #14140F)",
+            "fontFamily": "Space Grotesk",
+            "fontSize": "34px",
+            "fontWeight": "500",
+            "height": "fit-content",
+            "letterSpacing": "-0.03em",
+            "lineHeight": "1.02",
+            "maxWidth": "860px",
+            "minWidth": "10px",
+            "textAlign": "center",
+            "width": "fit-content"
+           },
+           "blockId": "0f34ac7400",
+           "blockName": "Quote Text",
+           "element": "h3",
+           "innerHTML": "&ldquo;They work like an in-house team that never lost its outside eye. Best money we spent last year.&rdquo;",
+           "mobileStyles": {
+            "fontSize": "24px"
+           }
+          },
+          {
+           "baseStyles": {
+            "color": "var(--71911d82-22b2-4753-bddf-b2d6726a820d, #6B6B61)",
+            "fontFamily": "Inter",
+            "fontSize": "14px",
+            "height": "fit-content",
+            "lineHeight": "1.7",
+            "minWidth": "10px",
+            "textAlign": "center",
+            "width": "fit-content"
+           },
+           "blockId": "2e70bbe95a",
+           "blockName": "Quote Attribution",
+           "element": "p",
+           "innerHTML": "Lena Ortiz - CEO, Nova"
+          }
+         ],
+         "element": "div"
+        }
+       ],
+       "element": "div"
+      }
+     ],
+     "element": "div"
+    },
+    {
+     "blockId": "e5db8c43ba",
+     "blockName": "Footer",
+     "children": [
+      {
+       "blockId": "40795dc245",
+       "blockName": "Footer Container",
+       "children": [
+        {
+         "blockId": "827765462c",
+         "blockName": "Footer CTA",
+         "children": [
+          {
+           "blockId": "6d734b4e1a",
+           "blockName": "Footer Label",
+           "isChildOfComponent": "mono_footer",
+           "referenceBlockId": "0091874a8e"
+          },
+          {
+           "blockId": "ed173bb492",
+           "blockName": "Footer Headline",
+           "isChildOfComponent": "mono_footer",
+           "referenceBlockId": "8e7d73c298"
+          },
+          {
+           "blockId": "3ed0506049",
+           "blockName": "Footer Actions",
+           "children": [
+            {
+             "blockId": "e585ef524d",
+             "blockName": "Footer Email",
+             "isChildOfComponent": "mono_footer",
+             "referenceBlockId": "7917a47c13"
+            },
+            {
+             "blockId": "92755c8ee8",
+             "blockName": "Footer Call",
+             "isChildOfComponent": "mono_footer",
+             "referenceBlockId": "097be413ec"
+            }
+           ],
+           "isChildOfComponent": "mono_footer",
+           "referenceBlockId": "7d8bb45a2b"
+          }
+         ],
+         "isChildOfComponent": "mono_footer",
+         "referenceBlockId": "2a8e16b8aa"
+        },
+        {
+         "blockId": "8cd0516dc3",
+         "blockName": "Footer Bottom",
+         "children": [
+          {
+           "blockId": "ec613acd65",
+           "blockName": "Copyright",
+           "isChildOfComponent": "mono_footer",
+           "referenceBlockId": "c8e57abb6c"
+          },
+          {
+           "blockId": "ba95f8b93f",
+           "blockName": "Footer Socials",
+           "children": [
+            {
+             "blockId": "033b1abf7e",
+             "blockName": "Social · Dribbble",
+             "isChildOfComponent": "mono_footer",
+             "referenceBlockId": "115de50e14"
+            },
+            {
+             "blockId": "0d4fd79c02",
+             "blockName": "Social · Instagram",
+             "isChildOfComponent": "mono_footer",
+             "referenceBlockId": "9c0bc6ccc7"
+            },
+            {
+             "blockId": "b1c44436ac",
+             "blockName": "Social · LinkedIn",
+             "isChildOfComponent": "mono_footer",
+             "referenceBlockId": "8f06363093"
+            },
+            {
+             "blockId": "49406d698e",
+             "blockName": "Social · X",
+             "isChildOfComponent": "mono_footer",
+             "referenceBlockId": "d170d06c95"
+            }
+           ],
+           "isChildOfComponent": "mono_footer",
+           "referenceBlockId": "f82a9d0387"
+          },
+          {
+           "blockId": "365096d95b",
+           "blockName": "Footer Note",
+           "isChildOfComponent": "mono_footer",
+           "referenceBlockId": "b3b1d786c4"
+          }
+         ],
+         "isChildOfComponent": "mono_footer",
+         "referenceBlockId": "0fc0093d3a"
+        }
+       ],
+       "isChildOfComponent": "mono_footer",
+       "referenceBlockId": "ac9da9ede2"
+      }
+     ],
+     "extendedFromComponent": "mono_footer"
+    }
+   ],
+   "draggable": false,
+   "element": "div",
+   "originalElement": "body"
+  }
+ ],
+ "client_scripts": [
+  {
+   "builder_script": "builder_theme_toggle_css-8727d"
+  },
+  {
+   "builder_script": "builder_theme_toggle-5445c"
+  }
+ ],
+ "creation": "2026-08-20 18:49:27.568641",
+ "disable_indexing": 0,
+ "docstatus": 0,
+ "doctype": "Builder Page",
+ "draft_blocks": null,
+ "dynamic_route": 0,
+ "idx": 0,
+ "is_standard": 0,
+ "is_template": 0,
+ "meta_description": "Mono is an independent design studio for brand, product and motion.",
+ "modified": "2026-08-20 21:45:31.743149",
+ "modified_by": "Administrator",
+ "name": "page-25092291",
+ "owner": "Administrator",
+ "page_data_script": "",
+ "page_name": "page-25092291",
+ "page_title": "Work",
+ "preview": "/files/page-25092291-preview.webp?v=9025f",
+ "project_folder": "marsol_website",
+ "published": 1,
+ "published_at": "2026-08-20 20:05:45.234384",
+ "route": "pages/page-7d7a05b8"
+}

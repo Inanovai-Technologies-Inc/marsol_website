@@ -1,0 +1,16 @@
+{
+ "creation": "2026-08-20 18:49:27.276930",
+ "dark_value": "#0F0F0E",
+ "docstatus": 0,
+ "doctype": "Builder Token",
+ "group": "mono",
+ "idx": 0,
+ "is_standard": 0,
+ "modified": "2026-08-20 18:49:27.276930",
+ "modified_by": "Administrator",
+ "name": "5084c003-435e-4afe-9606-738d2fe9eaf0",
+ "owner": "Administrator",
+ "token_name": "background",
+ "type": "Color",
+ "value": "#FAFAF7"
+}

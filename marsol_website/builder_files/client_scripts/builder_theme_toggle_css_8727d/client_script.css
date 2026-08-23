@@ -1,0 +1,6 @@
+
+[data-theme-toggle]{cursor:pointer;transition:background-color .15s ease-out;}
+[data-theme-toggle] .ti-sun{display:none;}
+[data-theme-toggle] .ti-moon{display:inline-flex;}
+:root[data-theme="dark"] [data-theme-toggle] .ti-sun{display:inline-flex;}
+:root[data-theme="dark"] [data-theme-toggle] .ti-moon{display:none;}
