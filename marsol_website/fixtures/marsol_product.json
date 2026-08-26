@@ -1,15 +1,18 @@
 [
  {
   "category": "Deck & Helideck Fire Suppression",
+  "certifications": [],
   "description": "Deck-integrated fire fighting system for helipads and helidecks, discharging a foam-water solution across the deck.",
   "docstatus": 0,
   "doctype": "Marsol Product",
   "erpnext_item": "DIFF-FIRE-SYSTEM",
+  "features": null,
   "industry": "Offshore",
   "modified": "2026-08-22 20:04:43.970578",
   "name": "dqqf5hkfi3",
   "product_image": "https://marsol-website-three.vercel.app/_next/image?url=/images/products/diff-system.png&w=640&q=75",
   "product_name": "DIFF System",
+  "product_tags": null,
   "related_products": [
    {
     "parent": "dqqf5hkfi3",
@@ -27,15 +30,18 @@
  },
  {
   "category": "Deck & Helideck Fire Suppression",
+  "certifications": [],
   "description": "Deck-mounted discharge nozzles engineered for even foam-water coverage across helideck surfaces.",
   "docstatus": 0,
   "doctype": "Marsol Product",
   "erpnext_item": "DIFF-NOZZLES",
+  "features": null,
   "industry": "Offshore",
   "modified": "2026-08-22 20:05:10.971274",
   "name": "rnsrtjutdp",
   "product_image": "https://marsol-website-three.vercel.app/_next/image?url=/images/products/diff-nozzles.png&w=640&q=75",
   "product_name": "DIFF Nozzles",
+  "product_tags": null,
   "related_products": [
    {
     "parent": "rnsrtjutdp",
@@ -53,15 +59,18 @@
  },
  {
   "category": "Deck & Helideck Fire Suppression",
+  "certifications": [],
   "description": "A fully packaged pump, tank and control skid for unmanned or remote helideck installations.",
   "docstatus": 0,
   "doctype": "Marsol Product",
   "erpnext_item": "SELF-CONTAINED-SKID",
+  "features": null,
   "industry": "offshore",
   "modified": "2026-08-22 21:59:52.278206",
   "name": "srru839ge8",
   "product_image": "https://marsol-website-three.vercel.app/_next/image?url=/images/products/self-contained-skid.jpg&w=640&q=75",
   "product_name": "Self-Contained Skid",
+  "product_tags": null,
   "related_products": [
    {
     "parent": "srru839ge8",
