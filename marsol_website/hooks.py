@@ -258,7 +258,9 @@ fixtures = [
                 "pages/diffnozzel",
                 "pages/diffsystem",
                 "pages/career",
-                "pages/enviornment"
+                "pages/enviornment",
+                "pages/page-467e3737",
+                "pages/pfas-extraction-system"
             ]]
         ],
     },
@@ -273,7 +275,9 @@ fixtures = [
                 "page-f04fe0d1",
                 "page-508f0e6f",
                 "page-067860cf",
-                "page-b74e8aa3"
+                "page-b74e8aa3",
+                "page-782f8bb5",
+                "page-3732af43"
             ]]
         ],
     },
