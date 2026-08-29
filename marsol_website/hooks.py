@@ -367,7 +367,8 @@ fixtures = [
                 "Marsol Product",
                 "Marsol Related Product",
                 "Job Opening",
-                "Marsol Company Settings"
+                "Marsol Company Settings",
+                "Product Certification"
             ]]
         ],
     },

@@ -18,6 +18,18 @@
     "parent": "dqqf5hkfi3",
     "parentfield": "related_products",
     "parenttype": "Marsol Product",
+    "product": "srru839ge8"
+   },
+   {
+    "parent": "dqqf5hkfi3",
+    "parentfield": "related_products",
+    "parenttype": "Marsol Product",
+    "product": "rnsrtjutdp"
+   },
+   {
+    "parent": "dqqf5hkfi3",
+    "parentfield": "related_products",
+    "parenttype": "Marsol Product",
     "product": "rnsrtjutdp"
    },
    {
@@ -47,6 +59,18 @@
     "parent": "rnsrtjutdp",
     "parentfield": "related_products",
     "parenttype": "Marsol Product",
+    "product": "dqqf5hkfi3"
+   },
+   {
+    "parent": "rnsrtjutdp",
+    "parentfield": "related_products",
+    "parenttype": "Marsol Product",
+    "product": "srru839ge8"
+   },
+   {
+    "parent": "rnsrtjutdp",
+    "parentfield": "related_products",
+    "parenttype": "Marsol Product",
     "product": "srru839ge8"
    },
    {
@@ -72,6 +96,12 @@
   "product_name": "Self-Contained Skid",
   "product_tags": null,
   "related_products": [
+   {
+    "parent": "srru839ge8",
+    "parentfield": "related_products",
+    "parenttype": "Marsol Product",
+    "product": "rnsrtjutdp"
+   },
    {
     "parent": "srru839ge8",
     "parentfield": "related_products",

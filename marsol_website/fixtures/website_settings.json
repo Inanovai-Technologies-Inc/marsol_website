@@ -67,7 +67,7 @@
   "head_html": null,
   "hide_footer_signup": 1,
   "hide_login": 0,
-  "home_page": "marsol-home",
+  "home_page": "pages/homepage",
   "indexing_authorization_code": null,
   "indexing_refresh_token": null,
   "modified": "2026-08-18 15:12:41.357192",
@@ -125,7 +125,7 @@
     "url": "/contact"
    }
   ],
-  "website_theme": "Marsol Theme",
+  "website_theme": null,
   "website_theme_image_link": null
  }
 ]
