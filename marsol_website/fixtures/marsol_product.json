@@ -8,10 +8,12 @@
   "erpnext_item": "DIFF-FIRE-SYSTEM",
   "features": null,
   "industry": "Offshore",
-  "modified": "2026-08-22 20:04:43.970578",
+  "modified": "2026-09-01 10:40:53.077807",
   "name": "dqqf5hkfi3",
   "product_image": "https://marsol-website-three.vercel.app/_next/image?url=/images/products/diff-system.png&w=640&q=75",
+  "product_logo": "https://marsol-website-three.vercel.app/_next/image?url=/images/certifications/abs.png&w=384&q=75",
   "product_name": "DIFF System",
+  "product_route": "diff-system",
   "product_tags": null,
   "related_products": [
    {
@@ -25,18 +27,6 @@
     "parentfield": "related_products",
     "parenttype": "Marsol Product",
     "product": "rnsrtjutdp"
-   },
-   {
-    "parent": "dqqf5hkfi3",
-    "parentfield": "related_products",
-    "parenttype": "Marsol Product",
-    "product": "rnsrtjutdp"
-   },
-   {
-    "parent": "dqqf5hkfi3",
-    "parentfield": "related_products",
-    "parenttype": "Marsol Product",
-    "product": "srru839ge8"
    }
   ]
  },
@@ -48,11 +38,13 @@
   "doctype": "Marsol Product",
   "erpnext_item": "DIFF-NOZZLES",
   "features": null,
-  "industry": "Offshore",
-  "modified": "2026-08-22 20:05:10.971274",
+  "industry": "offshare",
+  "modified": "2026-09-01 10:26:05.559613",
   "name": "rnsrtjutdp",
   "product_image": "https://marsol-website-three.vercel.app/_next/image?url=/images/products/diff-nozzles.png&w=640&q=75",
+  "product_logo": "https://marsol-website-three.vercel.app/_next/image?url=/images/certifications/ul.png&w=384&q=75",
   "product_name": "DIFF Nozzles",
+  "product_route": "diff-nozzles",
   "product_tags": null,
   "related_products": [
    {
@@ -66,18 +58,6 @@
     "parentfield": "related_products",
     "parenttype": "Marsol Product",
     "product": "srru839ge8"
-   },
-   {
-    "parent": "rnsrtjutdp",
-    "parentfield": "related_products",
-    "parenttype": "Marsol Product",
-    "product": "srru839ge8"
-   },
-   {
-    "parent": "rnsrtjutdp",
-    "parentfield": "related_products",
-    "parenttype": "Marsol Product",
-    "product": "dqqf5hkfi3"
    }
   ]
  },
@@ -89,24 +69,26 @@
   "doctype": "Marsol Product",
   "erpnext_item": "SELF-CONTAINED-SKID",
   "features": null,
-  "industry": "offshore",
-  "modified": "2026-08-22 21:59:52.278206",
+  "industry": "Renewable Energy",
+  "modified": "2026-09-01 11:23:25.676892",
   "name": "srru839ge8",
   "product_image": "https://marsol-website-three.vercel.app/_next/image?url=/images/products/self-contained-skid.jpg&w=640&q=75",
+  "product_logo": "https://marsol-website-three.vercel.app/_next/image?url=/images/certifications/fm.png&w=384&q=75",
   "product_name": "Self-Contained Skid",
+  "product_route": "self-contained-skid",
   "product_tags": null,
   "related_products": [
    {
     "parent": "srru839ge8",
     "parentfield": "related_products",
     "parenttype": "Marsol Product",
-    "product": "rnsrtjutdp"
+    "product": "5c6qoae08j"
    },
    {
     "parent": "srru839ge8",
     "parentfield": "related_products",
     "parenttype": "Marsol Product",
-    "product": "rnsrtjutdp"
+    "product": "286os4hr4f"
    }
   ]
  }

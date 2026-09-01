@@ -4,7 +4,6 @@ app_publisher = "Inanovai Technologies Inc"
 app_description = "Marsol Technologies website built using ERPNext"
 app_email = "akshitha.nr@inanovai.com"
 app_license = "mit"
-
 # Apps
 # ------------------
 
@@ -30,7 +29,7 @@ required_apps = ["erpnext", "builder"]
 
 # include js, css files in header of web template
 # web_include_css = "/assets/marsol_website/css/marsol_website.css"
-# web_include_js = "/assets/marsol_website/js/marsol_website.js"
+web_include_js = "/assets/marsol_website/js/marsol_chatbot.js"
 
 # include custom scss in every website theme (without file extension ".scss")
 # website_theme_scss = "marsol_website/public/scss/website"
