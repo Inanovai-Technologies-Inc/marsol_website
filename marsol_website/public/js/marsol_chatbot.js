@@ -716,8 +716,75 @@
                 botMessage.className =
                     "marsol-bot-message";
 
-                botMessage.textContent =
-                    reply;
+                function formatBotReply(text) {
+                    const escapeHtml = value =>
+                        String(value)
+                            .replace(/&/g, "&amp;")
+                            .replace(/</g, "&lt;")
+                            .replace(/>/g, "&gt;")
+                            .replace(/"/g, "&quot;")
+                            .replace(/'/g, "&#039;");
+
+                    let html = "";
+                    let inList = false;
+
+                    escapeHtml(text)
+                        .split("\n")
+                        .forEach(function(line) {
+                            const trimmed = line.trim();
+
+                            if (!trimmed) {
+                                if (inList) {
+                                    html += "</ul>";
+                                    inList = false;
+                                }
+                                return;
+                            }
+
+                            if (/^[-*] /.test(trimmed)) {
+                                if (!inList) {
+                                    html += "<ul>";
+                                    inList = true;
+                                }
+
+                                html +=
+                                    "<li>" +
+                                    trimmed.substring(2)
+                                        .replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>") +
+                                    "</li>";
+                                return;
+                            }
+
+                            if (inList) {
+                                html += "</ul>";
+                                inList = false;
+                            }
+
+                            if (/^#{1,3} /.test(trimmed)) {
+                                html +=
+                                    "<h3>" +
+                                    trimmed.replace(/^#{1,3} /, "")
+                                        .replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>") +
+                                    "</h3>";
+                                return;
+                            }
+
+                            html +=
+                                "<p>" +
+                                trimmed
+                                    .replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>") +
+                                "</p>";
+                        });
+
+                    if (inList) {
+                        html += "</ul>";
+                    }
+
+                    return html;
+                }
+
+                botMessage.innerHTML =
+                    formatBotReply(reply);
 
                 messages.appendChild(botMessage);
 

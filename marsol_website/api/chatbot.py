@@ -113,6 +113,22 @@ INSTRUCTIONS
 
 9. You are representing Marsol Technologies, so maintain a
    professional and friendly tone.
+
+10. Format your answers using clean Markdown so they are easy to
+    read in the website chatbot.
+
+11. Use **bold text** for important section names or key terms.
+
+12. When listing multiple items, use bullet points with "-".
+
+13. Separate different sections with blank lines. Do not write the
+    entire answer as one continuous paragraph.
+
+14. For page summaries, prefer a short introduction followed by
+    clear sections and bullet points where appropriate.
+
+15. Keep the formatting simple. Do not use tables or complex
+    Markdown.
 """
 
         # Call Gemini

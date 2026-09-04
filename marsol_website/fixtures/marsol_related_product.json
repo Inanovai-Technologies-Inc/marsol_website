@@ -2,7 +2,17 @@
  {
   "docstatus": 0,
   "doctype": "Marsol Related Product",
-  "modified": "2026-09-01 11:23:25.676892",
+  "modified": "2026-09-02 20:16:25.650424",
+  "name": "8sgenumouj",
+  "parent": "rnsrtjutdp",
+  "parentfield": "related_products",
+  "parenttype": "Marsol Product",
+  "product": "3qdmb9ur55"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Marsol Related Product",
+  "modified": "2026-09-04 12:29:01.526537",
   "name": "5eojlrh0mm",
   "parent": "srru839ge8",
   "parentfield": "related_products",
@@ -12,7 +22,7 @@
  {
   "docstatus": 0,
   "doctype": "Marsol Related Product",
-  "modified": "2026-09-01 10:40:53.077807",
+  "modified": "2026-09-03 00:09:25.895853",
   "name": "0ofij1ibps",
   "parent": "dqqf5hkfi3",
   "parentfield": "related_products",
@@ -22,41 +32,21 @@
  {
   "docstatus": 0,
   "doctype": "Marsol Related Product",
-  "modified": "2026-09-01 10:26:05.559613",
-  "name": "v231etivs7",
-  "parent": "rnsrtjutdp",
-  "parentfield": "related_products",
-  "parenttype": "Marsol Product",
-  "product": "dqqf5hkfi3"
- },
- {
-  "docstatus": 0,
-  "doctype": "Marsol Related Product",
-  "modified": "2026-09-01 11:23:25.676892",
-  "name": "4qoi080t7o",
-  "parent": "srru839ge8",
-  "parentfield": "related_products",
-  "parenttype": "Marsol Product",
-  "product": "286os4hr4f"
- },
- {
-  "docstatus": 0,
-  "doctype": "Marsol Related Product",
-  "modified": "2026-09-01 10:40:53.077807",
-  "name": "5g39c23uqh",
+  "modified": "2026-09-03 00:09:25.895853",
+  "name": "4k3h0aho85",
   "parent": "dqqf5hkfi3",
   "parentfield": "related_products",
   "parenttype": "Marsol Product",
-  "product": "rnsrtjutdp"
+  "product": "313e7o9vmm"
  },
  {
   "docstatus": 0,
   "doctype": "Marsol Related Product",
-  "modified": "2026-09-01 10:26:05.559613",
-  "name": "v23fp844ah",
+  "modified": "2026-09-02 20:16:25.650424",
+  "name": "8sg1roltrp",
   "parent": "rnsrtjutdp",
   "parentfield": "related_products",
   "parenttype": "Marsol Product",
-  "product": "srru839ge8"
+  "product": "6l3irr9h55"
  }
 ]

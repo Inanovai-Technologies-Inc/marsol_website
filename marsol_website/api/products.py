@@ -8,6 +8,7 @@ def get_products():
         fields=[
             "name",
             "product_name",
+            "product_route",
             "category",
             "industry",
             "description",

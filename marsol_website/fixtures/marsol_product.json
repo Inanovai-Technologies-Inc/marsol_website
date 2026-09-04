@@ -8,7 +8,7 @@
   "erpnext_item": "DIFF-FIRE-SYSTEM",
   "features": null,
   "industry": "Offshore",
-  "modified": "2026-09-01 10:40:53.077807",
+  "modified": "2026-09-03 00:09:25.895853",
   "name": "dqqf5hkfi3",
   "product_image": "https://marsol-website-three.vercel.app/_next/image?url=/images/products/diff-system.png&w=640&q=75",
   "product_logo": "https://marsol-website-three.vercel.app/_next/image?url=/images/certifications/abs.png&w=384&q=75",
@@ -26,7 +26,7 @@
     "parent": "dqqf5hkfi3",
     "parentfield": "related_products",
     "parenttype": "Marsol Product",
-    "product": "rnsrtjutdp"
+    "product": "313e7o9vmm"
    }
   ]
  },
@@ -39,7 +39,7 @@
   "erpnext_item": "DIFF-NOZZLES",
   "features": null,
   "industry": "offshare",
-  "modified": "2026-09-01 10:26:05.559613",
+  "modified": "2026-09-02 20:16:25.650424",
   "name": "rnsrtjutdp",
   "product_image": "https://marsol-website-three.vercel.app/_next/image?url=/images/products/diff-nozzles.png&w=640&q=75",
   "product_logo": "https://marsol-website-three.vercel.app/_next/image?url=/images/certifications/ul.png&w=384&q=75",
@@ -51,13 +51,13 @@
     "parent": "rnsrtjutdp",
     "parentfield": "related_products",
     "parenttype": "Marsol Product",
-    "product": "dqqf5hkfi3"
+    "product": "3qdmb9ur55"
    },
    {
     "parent": "rnsrtjutdp",
     "parentfield": "related_products",
     "parenttype": "Marsol Product",
-    "product": "srru839ge8"
+    "product": "6l3irr9h55"
    }
   ]
  },
@@ -68,9 +68,9 @@
   "docstatus": 0,
   "doctype": "Marsol Product",
   "erpnext_item": "SELF-CONTAINED-SKID",
-  "features": null,
+  "features": "",
   "industry": "Renewable Energy",
-  "modified": "2026-09-01 11:23:25.676892",
+  "modified": "2026-09-04 12:29:01.526537",
   "name": "srru839ge8",
   "product_image": "https://marsol-website-three.vercel.app/_next/image?url=/images/products/self-contained-skid.jpg&w=640&q=75",
   "product_logo": "https://marsol-website-three.vercel.app/_next/image?url=/images/certifications/fm.png&w=384&q=75",
@@ -83,12 +83,6 @@
     "parentfield": "related_products",
     "parenttype": "Marsol Product",
     "product": "5c6qoae08j"
-   },
-   {
-    "parent": "srru839ge8",
-    "parentfield": "related_products",
-    "parenttype": "Marsol Product",
-    "product": "286os4hr4f"
    }
   ]
  }

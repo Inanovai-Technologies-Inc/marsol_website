@@ -1,0 +1,116 @@
+/* =========================================================
+   MARSOL GLOBAL LIGHT / DARK THEME
+   ========================================================= */
+
+/* LIGHT MODE */
+:root {
+    --marsol-bg: #fafafa;
+    --marsol-surface: #ffffff;
+    --marsol-text: #17212b;
+    --marsol-heading: #111820;
+    --marsol-muted: #355c79;
+    --marsol-blue: #174d82;
+    --marsol-border: #d9e1e7;
+    --marsol-input: #ffffff;
+    --marsol-orange: #ff7518;
+}
+
+/* DARK MODE */
+:root[data-theme="dark"] {
+    --marsol-bg: #090d11;
+    --marsol-surface: #11171c;
+    --marsol-text: #f5f7f9;
+    --marsol-heading: #ffffff;
+    --marsol-muted: #c2d0da;
+    --marsol-blue: #79b7ed;
+    --marsol-border: #2b3943;
+    --marsol-input: #151d23;
+    --marsol-orange: #ff7518;
+}
+
+
+/* PAGE BACKGROUND */
+html[data-theme="light"] body,
+html:not([data-theme="dark"]) body {
+    background-color: var(--marsol-bg) !important;
+    color: var(--marsol-text) !important;
+}
+
+html[data-theme="dark"] body {
+    background-color: var(--marsol-bg) !important;
+    color: var(--marsol-text) !important;
+}
+
+
+/* COMMON TEXT */
+html[data-theme="dark"] h1,
+html[data-theme="dark"] h2,
+html[data-theme="dark"] h3,
+html[data-theme="dark"] h4,
+html[data-theme="dark"] h5,
+html[data-theme="dark"] h6 {
+    color: var(--marsol-heading) !important;
+}
+
+html[data-theme="dark"] p {
+    color: var(--marsol-text) !important;
+}
+
+
+/* BLUE / SECONDARY TEXT */
+html[data-theme="dark"] a {
+    color: var(--marsol-blue);
+}
+
+html[data-theme="dark"] a:hover {
+    color: #9bcdf5;
+}
+
+
+/* SURFACES / CARDS */
+html[data-theme="dark"] .product-card,
+html[data-theme="dark"] .card,
+html[data-theme="dark"] .work-card {
+    background-color: var(--marsol-surface) !important;
+}
+
+
+/* BORDERS */
+html[data-theme="dark"] .product-card,
+html[data-theme="dark"] .card {
+    border-color: var(--marsol-border) !important;
+}
+
+
+/* INPUTS */
+html[data-theme="dark"] input,
+html[data-theme="dark"] textarea,
+html[data-theme="dark"] select {
+    background-color: var(--marsol-input) !important;
+    color: var(--marsol-text) !important;
+    border-color: var(--marsol-border) !important;
+}
+
+
+/* THEME TOGGLE */
+[data-theme-toggle] {
+    cursor: pointer;
+    transition: background-color .15s ease-out;
+}
+
+[data-theme-toggle] .ti-sun {
+    display: none;
+}
+
+[data-theme-toggle] .ti-moon {
+    display: inline-flex;
+}
+
+:root[data-theme="dark"] [data-theme-toggle] .ti-sun {
+    display: inline-flex;
+}
+
+:root[data-theme="dark"] [data-theme-toggle] .ti-moon {
+    display: none;
+}
+
